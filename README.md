@@ -1,5 +1,5 @@
 # coco2csv
-Simple coco to CSV convereter
+Simple coco to CSV (keras_retinanet format) convereter
 
 usage
 
@@ -12,3 +12,4 @@ or
 ```
 python coco2csv.py --coco_dir=coco_home --dataset=val2017 --csv val.csv
 ```
+
