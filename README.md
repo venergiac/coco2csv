@@ -1,2 +1,10 @@
 # coco2csv
-Coco to CSV convereter
+Simple coco to CSV convereter
+
+usage
+
+python coco2csv.py --coco_dir=coco_home --dataset=train2017 --csv train.csv
+
+or
+
+python coco2csv.py --coco_dir=coco_home --dataset=val2017 --csv val.csv
